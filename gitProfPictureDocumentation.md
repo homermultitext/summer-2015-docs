@@ -4,6 +4,7 @@
 - Click on **Settings**, the gear icon in the top right corner
 - In a separate tab, find a picture off of Google Images that you like
      - Save that picture to your Desktop
-- click on Upload Picture and select your picture
+     - The picture must be smaller than 1 MB
+- click on Upload New Picture and select your picture
 - Click on Update Profile
 - Enjoy your new Github picture!
