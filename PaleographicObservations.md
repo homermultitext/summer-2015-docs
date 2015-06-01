@@ -2,7 +2,7 @@
 
 At the start of a new folio side, your first step will be to take paleographic observations on the *Iliad* text and the scholia text.
 
-## *he Process ##
+## The Process ##
 
 1. You're going to take observations from the first line on the folio side.
 2. Enter your observations in 'paleography.csv' file located in the 'collections' folder of your repository. 
