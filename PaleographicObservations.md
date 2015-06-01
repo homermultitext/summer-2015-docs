@@ -9,23 +9,23 @@ At the start of a new folio side, your first step will be to take paleographic o
 3. The file contains four columns: Observation, TextUrn, Image, and Comments
 4. Observation: This column contains URN object references to the paleographic observation. And will look something like this:
 
-  urn:cite:op:hmtX.Y
+    urn:cite:op:hmtX.Y
 
   The two changing variables are 'X' and 'Y.' 'X' will refer to the book number you are taking your observation from. 'Y' will be a unique identifier for the particular observation. It will probably be easiest to start with 1 and go up sequentially, but remember that they are not numbers, they are names.
 
 5. TextUrn: This column contains the cts URN for the glyph you are citing. For example if you are citing an alpha in the Venetus A *Iliad* 18.1, the URN would look like this:
 
-  urn:cts:greekLit:tlg0012.tlg001.msA:18.1@α 
+    urn:cts:greekLit:tlg0012.tlg001.msA:18.1@α 
   
   Repeated characters will be followed by square brackets and the number of times the letter has appeared in that particular text URN. The first occurence gets no brackets and number. So for example the second alpha in the Venetus A *Iliad* 18.1 would be referenced as followed:
 
-  urn:cts:greekLit:tlg0012.tlg001.msA:18.1@α[2] 
+    urn:cts:greekLit:tlg0012.tlg001.msA:18.1@α[2] 
   
   You should ignore punctuation. Ligatures (e.g. epsilon-iota) should be treated as one glyph. If your glyph has any diacritical marks (accents or breathings), include those in both the image (see below) and in your TextUrn. They do not factor in how to number multiples, ergo an alpha with a rough breathing and an alpha with a smooth breathing would be 1 and 2. 
 
   Remember that the text URN will change for the scholia. It might look something like this:
 
-  urn:cts:greekLit:tlg5026.msA.hmt:18.1@α 
+    urn:cts:greekLit:tlg5026.msA.hmt:18.1@α 
 
   Keep in mind that the reference to the scholion will change based on how you have indexed them.
   
