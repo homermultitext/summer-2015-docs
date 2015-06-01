@@ -98,8 +98,11 @@ Generating tables is surprisingly easy, although there are many formating modifi
 Here is an example of a table in the raw:
 
    | Column A | Column B|
+   
    |:---:|:---:|
+   
    | item 1a | item 1b |
+   
    | item 2a | item 2b |
 
 And through a parser it looks like this:
@@ -108,3 +111,13 @@ And through a parser it looks like this:
 |:---:|:---:|
 | item 1a | item 1b |
 | item 2a | item 2b |
+
+## Other resources ##
+
+There are many resources out there about how to write markdown and there are many editors that are useful for writing markdown. Here are a couple we like. Feel free to find your own.
+
+[Lightpaper a markdown editor for Macs](http://www.ashokgelal.com/lightpaper-for-mac/)
+
+[MarkdownPad an editor for Windows](http://markdownpad.com/)
+
+[formating from the creator of markdown](http://daringfireball.net/projects/markdown/syntax)
