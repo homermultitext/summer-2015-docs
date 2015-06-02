@@ -9,14 +9,16 @@
 
 3. Open GIMP
 4. Select “File” then “New”
-5. Set Width: 10000 px  Height: 7000 px
-7. Drag and click from the verso image from the image browser to your desktop. Open in Preview or similar, and copy it to your clipboard.
-8. In GIMP, select “Edit”, “Paste As”, and then “New Layer”
-9. Repeat Step 2 (creating another layer) for the corresponding Recto image
-10. Using the “Move Tool” in the left-hand artist bar (it looks like four arrows in a cross pattern), move the Recto image to the right until its left edge slightly overlaps with the Verso’s right edge (i.e., make the image look like an open book)
-11. Make sure both images as aligned properly
-12. Use the “Crop Tool” in the left-hand bar (it looks like the tip of a small x-acto knife), cut off the black border all around the edge of the image (i.e., leave only the manuscript pages)
-13. Delete the “background layer” in the right-hand artist bar by selecting it and clicking the trash button below
+5. Set Width: 10000 px  Height: 7000 px. Ignore the warning about the size being too big.
+6. Copy the verso image. Go to the archive of downloadable data and open the tif or jpeg file. Right click to copy image. 
+7. In GIMP, select “Edit”, “Paste As”, and then “New Layer.”
+8. Repeat for the recto image.
+9. Using the rectangle drawing tool, select portions of the image you want to remove and cut them out (Command + X). You'll want to take from the center to match up the spines as close as you can. Save at least one of the color scales, ideally both. Avoid cutting from the top and bottom until you have the two images aligned.
+10. Using the move tool align the images along the spine of the bifolio. 
+11. Merge the layers into one: Under the 'Image' menu select 'Merge Visible Layers.' The default settings are acceptable. 
+12. When you have merged the visible layers, using the rectangle tool again select the portion of the image that you want to keep. Now is the time to cut off any excess on the outside edges, but remember to keep at least one color scale. 
+13. Copy this selection (Command + C).
+14. Go the 'File' menu. Select 'Create' and then 'From Clipboard'.
 
 ## Saving: ##
 
