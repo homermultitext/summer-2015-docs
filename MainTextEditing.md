@@ -23,6 +23,7 @@
   - scribal corrections
   - damage to the manuscript resulting in missing text
 
+*This list is not exhaustive. Reference your Editors' Guide!*
   
 ### Tips ###
 
