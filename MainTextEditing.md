@@ -22,7 +22,7 @@
   - abbreviations
   - scribal corrections
   - damage to the manuscript resulting in missing text
-  - 
+
   
 ### Tips ###
 
