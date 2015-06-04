@@ -27,6 +27,8 @@
   - abbreviations
   - scribal corrections
   - damage resulting in missing text
+ 
+*This list is not exhaustive. Reference your Editors' Guide!*  
 
 ## Special Characters You May Need ##
 
