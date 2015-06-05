@@ -24,6 +24,8 @@
   - damage to the manuscript resulting in missing text
 
 *This list is not exhaustive. Reference your Editors' Guide!*
+
+*Always double check that the text you edited from the hard copy is the text that is in your template file for the XML, they should be the same*
   
 ### Tips ###
 
