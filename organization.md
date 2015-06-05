@@ -1,24 +1,32 @@
 # Potential ways of organizing stuff #
 
-## Git Hub ##
+## Technology ##
+
+### Git Hub ###
 - gitBashDocumentation.md
 - gitProfPictureDocumentation.md
 - githubaccount.md
 - GitInstallation.md
 
-## Pre-editing ##
-- PaleographicObservations.md
-- CreatingBifolioImages.md
-
-## Editing ##
-- IndexingMainText.md
-- IndexingScholia.md
-- MainTextEditing.md
-- ScholiaEditing.md
-
-## Technology ##
+### Installing Virtual Machines ###
 - VirtualBoxVagrant.md
 - InstallingVM.md
 
-## Markdown ##
+## Editing ##
+
+### Pre-editing ###
+- CreatingBifolioImages.md
+
+### Total Editing Process ###
+- IndexingMainText.md
+- IndexingScholia.md
+- PaleographicObservations.md
+- MainTextEditing.md
+- ScholiaEditing.md
+- eventually... verification and validation, using the VMs
+
+## Writing ##
 - WritingMarkdown.md
+- eventually... citedown
+- eventually... using concordion
+- (we may also want to break up what's in "writingMarkdown" into small subcategories?)
