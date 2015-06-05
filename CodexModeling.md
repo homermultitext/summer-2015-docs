@@ -2,8 +2,10 @@
 
 Creating a codex model is an incredibly important task because it is the first step in creating a navigable manuscript. What you are doing is creating a set of relationships between the images and the folios themselves, and indicating the sequential order in which they appear. Without this work, the manuscripts would not be browsable in a sequential order. There are two kinds of URNs you will be using:
 
-1. object URN refering to the image (as a concrete object)
-2. object URN refering to the folio (as a concept)
+1. object URN refering to the image (as a concrete object, i.e. here is this image, it happens to be of folio 12r)
+2. object URN refering to the folio (as a concept, i.e. let's talk about folio 12r and get to know him)
+
+Think of it like a picture of yourself. There can be hundreds of pictures of you and we could use the image URNs to talk about you (#1), but there is only one you and therefore only one URN to talk about you (#2).
 
 Your codex model is contained within a simple comma-separated-values (csv) file. This file has five columns:
 
