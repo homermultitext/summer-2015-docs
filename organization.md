@@ -14,7 +14,7 @@
 
 ## Editing ##
 
-### Pre-editing ###
+### Foundational Editing Tasks ###
 - eventually... something about cataloging and sequencing manuscripts; and creating line indicies (can snag documentation from other repos)
 - CreatingBifolioImages.md
 
