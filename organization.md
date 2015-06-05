@@ -16,7 +16,7 @@
 
 ### Foundational Editing Tasks ###
 - CodexModeling.md
-- eventually... something about cataloging and sequencing manuscripts; and creating line indicies (can snag documentation from other repos)
+- NavigationalLineIndex.md
 - CreatingBifolioImages.md
 
 ### Total Editing Process ###
