@@ -21,6 +21,7 @@
 4. Enter the following two commands in your bash shell:
 
   vagrant init hashicorp/precise64
+  
   vagrant up
 
 These two commands will first download a very basic 64-bit virtual machine and then attempt to build it. If they run successfully, then you know that you have correctly installed your virtual machine software. If they do not run successfully, you should reinstalled Virtual Box and Vagrant and try again.
