@@ -27,4 +27,6 @@ Alternatively you can copy the script from your repository and paste it in the `
   2. the scribe made a mistake (i.e. misspellings, extra accents/breathings or wrong accents/breathings). Check your folio and wrap the failure in `sic`.
   3. the scribe used a valid Byzantine orthographic equivalent (i.e. missed a breathing, accent, or iota subscript). Check your folio and submit an issue to [byzortho](https://github.com/homermultitext/byzortho/issues).
   4. the parser doesn't like it, but it's a valid word (capitalized words we don't tag, compounds that didn't resolve in morpheus; good rule of thumb is, if you can find it in the LSJ but it fails, it goes here). Check your folio and make an issue in [lexmapping](https://github.com/homermultitext/lexmapping).
+  5. You missed a proper name that needs tagging.
 9. When you've resolved all the failures, re-run the validator. Do not move on until your page passes at 100%.
+10. When your page does pass at 100%. Submit an issue to [hmt-archive](https://github.com/homermultitext/hmt-archive/issues). Your issue should include the folio urn in the title and the version of validation in the text.
